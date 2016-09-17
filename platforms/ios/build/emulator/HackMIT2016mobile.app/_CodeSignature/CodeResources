@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		WtO2CLD0zAFf3D0qSzGiK+XYdRk=
+		tTcLY3RZJAXnpgInBj7ubyOyj1Y=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		Yw6W265iNT32JQS40G0TDOJ/G+4=
+		PSyHdZleBdRjFgxb21zkEGjb6UQ=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		4Ko+t4meIAhUNR8i+x3Jq6hTffo=
+		U4IMZXPaycSMtJynvfCOvt3JhCM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -214,7 +214,19 @@
 		</data>
 		<key>app/app.js</key>
 		<data>
-		RG2EDCJAb4lX6ISuUNwfug/yetw=
+		K5291eU/x62On8+d/na3MOVw+h8=
+		</data>
+		<key>app/launch-page-view-model.js</key>
+		<data>
+		Y2rmq2GynUxhkdv30+aDysPkFpo=
+		</data>
+		<key>app/launch-page.js</key>
+		<data>
+		Krtzxcb7C9l9FwuhEOV4ZL8CKPQ=
+		</data>
+		<key>app/launch-page.xml</key>
+		<data>
+		MF+G6VHIRfWlpfzWFOmbxcXtwo0=
 		</data>
 		<key>app/main-page.js</key>
 		<data>
@@ -1444,11 +1456,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WtO2CLD0zAFf3D0qSzGiK+XYdRk=
+			tTcLY3RZJAXnpgInBj7ubyOyj1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			hHlC5892DoVJQWw/Ewe3sfReaXWdLe0iOxcm55q2Os0=
+			2DA9qSSsJoa4UsVRMlawcX1TGh8QL8ugB5RzcVDMnxs=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -1730,11 +1742,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yw6W265iNT32JQS40G0TDOJ/G+4=
+			PSyHdZleBdRjFgxb21zkEGjb6UQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			kMqCUYvmKBZQo2x+KaPdKDbl/rST0LVEo6jJFvJ1Xn8=
+			ktpNCwqTAAOaSIM9ivazlp5B09JcDJpLw31eAI4YyBc=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -1752,11 +1764,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4Ko+t4meIAhUNR8i+x3Jq6hTffo=
+			U4IMZXPaycSMtJynvfCOvt3JhCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			/0hDLWDWPudotkoZ7nuYsfM2LhVTksBH8ImunRwjLe8=
+			JsiW+iID6BlFiGU/v5cjuJx8LjpZxv/C2tsP0RLnTxE=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -1774,11 +1786,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RG2EDCJAb4lX6ISuUNwfug/yetw=
+			K5291eU/x62On8+d/na3MOVw+h8=
 			</data>
 			<key>hash2</key>
 			<data>
-			KWkofZYTb7ZAKU5Y9Uez02bp3ft5wQodC8PomfWLC4s=
+			C9glRM3GAFfnFwmnahf0gtwsLiUjctg+C/Be1qq6HOY=
+			</data>
+		</dict>
+		<key>app/launch-page-view-model.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y2rmq2GynUxhkdv30+aDysPkFpo=
+			</data>
+			<key>hash2</key>
+			<data>
+			zQHrkgF/eoTZZdJEepeNIZF5o9bdRFFskWlPxUESvyQ=
+			</data>
+		</dict>
+		<key>app/launch-page.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Krtzxcb7C9l9FwuhEOV4ZL8CKPQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Ha5FQICcNG7Isj2zDIkUKb7/xf74LH/CH9UW+V5+TA=
+			</data>
+		</dict>
+		<key>app/launch-page.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MF+G6VHIRfWlpfzWFOmbxcXtwo0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ccVfg1g73XpDOCIiwYj5Ng9eOHHI/wTTIMyZfqXpAEo=
 			</data>
 		</dict>
 		<key>app/main-page.js</key>
