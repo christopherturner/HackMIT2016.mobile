@@ -1,12 +1,24 @@
 {
-	"description": "NativeScript Application",
-	"license": "SEE LICENSE IN <your-license-filename>",
-	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
-	"nativescript": {
-		"id": "org.nativescript.HackMIT2016mobile"
-	},
-	"dependencies": {
-		"tns-core-modules": "2.3.0"
-	}
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.HackMIT2016mobile",
+    "tns-ios": {
+      "version": "2.3.0"
+    },
+    "tns-android": {
+      "version": "2.3.0"
+    }
+  },
+  "dependencies": {
+    "tns-core-modules": "2.4.0-2016-09-17-4145"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.15.0",
+    "babel-types": "6.15.0",
+    "babylon": "6.9.2",
+    "lazy": "1.0.11"
+  }
 }
