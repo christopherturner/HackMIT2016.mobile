@@ -1,4 +1,3 @@
-var sliderModule = require("ui/slider");
 var createViewModel = require("./main-view-model").createViewModel;
 var observableModule = require("data/observable");
 
@@ -6,21 +5,16 @@ function onNavigatingTo(args) {
     var page = args.object;
     page.bindingContext = createViewModel();
 
-    var slider = new sliderModule.Slider();
-    slider.maxValue = 1000;
-    slider.value = 500;
-    slider.minValue = 0;
-    var model = new observableModule.Observable();
+   var model = new observableModule.Observable();
+   page.bindingContext = model;
     model.set("confidence", 750);
     console.log();
-    var options = {
-        sourceProperty: "value",
-        targetProperty: "confidence",
+/*    var options = {
+        sourceProperty: "confidence",
+        targetProperty: "value",
         twoWay: true
     };
     slider.bind(options, model);
-    model.set("confidence", 750);
-    console.log();
-
+    model.set("confidence", 750);*/
 }
 exports.onNavigatingTo = onNavigatingTo;

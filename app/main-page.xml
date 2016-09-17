@@ -1,7 +1,12 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
-  <StackLayout>
-    <Label text="Tap the button" class="title"/>
-    <Slider value="{{ confidence }}" />
-    <Progress value="{{ confidence }}" />
+  <DockLayout stretchLastChild="true">
+  <StackLayout dock="top">
+    <Label text="[Insert Title]" class="title"/>
+    <Label horizontalAlignment="center" text="How much do you currently understand?" />
   </StackLayout>
+    <StackLayout verticalAlignment="center">
+    <Slider minValue="0" maxValue="1000" propertyChange="propertyChangeEvent" value="{{ confidence }}" />
+        <Label horizontalAlignment="center" text="{{ confidence }}" />
+    </StackLayout>
+      </DockLayout>
 </Page>
