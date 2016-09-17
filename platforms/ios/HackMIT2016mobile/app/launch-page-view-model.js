@@ -1,11 +1,11 @@
 var Observable = require("data/observable").Observable;
-var firebase = require("firebase.js");
+var firebase = require("firebase");
 
 function createViewModel() {
     var viewModel = new Observable();
 
     viewModel.onTap = function() {
-        console.log(firebase.key());
+        alert(firebase.key());
         firebase.auth().signInWithPopup(provider).then(function(result) {
             // This gives you a Google Access Token. You can use it to access the Google API.
             var token = result.credential.accessToken;

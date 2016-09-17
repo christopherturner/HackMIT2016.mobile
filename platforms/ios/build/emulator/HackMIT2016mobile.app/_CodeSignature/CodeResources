@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		tTcLY3RZJAXnpgInBj7ubyOyj1Y=
+		dqiXtrgb9ry4iwIo3P6dESKy5IM=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		PSyHdZleBdRjFgxb21zkEGjb6UQ=
+		wCpCLPW3wlHXgiQP97mggqUMYwo=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		U4IMZXPaycSMtJynvfCOvt3JhCM=
+		gIDyGcOAFjA1CjEhiv8G0TRiFfk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -214,23 +214,27 @@
 		</data>
 		<key>app/app.js</key>
 		<data>
-		K5291eU/x62On8+d/na3MOVw+h8=
+		2OS9JcInen8+knuIcDgZ0ki4vrQ=
+		</data>
+		<key>app/firebase.js</key>
+		<data>
+		hqFHxZDDc+XmloyBU/m3w0USim0=
 		</data>
 		<key>app/launch-page-view-model.js</key>
 		<data>
-		Y2rmq2GynUxhkdv30+aDysPkFpo=
+		WKtSpHuCfTuEvCzHQGgiRi9F3pY=
 		</data>
 		<key>app/launch-page.js</key>
 		<data>
-		Krtzxcb7C9l9FwuhEOV4ZL8CKPQ=
+		hwzug6AYkh2lZZayWF56ek6Dzzw=
 		</data>
 		<key>app/launch-page.xml</key>
 		<data>
-		MF+G6VHIRfWlpfzWFOmbxcXtwo0=
+		tAoR8H+0Agqd5HHCwsmtZqdzONk=
 		</data>
 		<key>app/main-page.js</key>
 		<data>
-		woSq9uSkaiajKtSNrIr9AXE+Pxs=
+		l4raKud/Unt8ImB1Q9iH5Dc8BCU=
 		</data>
 		<key>app/main-page.xml</key>
 		<data>
@@ -1456,11 +1460,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tTcLY3RZJAXnpgInBj7ubyOyj1Y=
+			dqiXtrgb9ry4iwIo3P6dESKy5IM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2DA9qSSsJoa4UsVRMlawcX1TGh8QL8ugB5RzcVDMnxs=
+			fVgz0+6YyLgMAs7xT43BJRX24nx2alg+wb+0nHLnlsw=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -1742,11 +1746,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PSyHdZleBdRjFgxb21zkEGjb6UQ=
+			wCpCLPW3wlHXgiQP97mggqUMYwo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ktpNCwqTAAOaSIM9ivazlp5B09JcDJpLw31eAI4YyBc=
+			teNAXqhuNk5QYRjKVzHGvfXmB1p0BN0PglAum26l1Fs=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -1764,11 +1768,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U4IMZXPaycSMtJynvfCOvt3JhCM=
+			gIDyGcOAFjA1CjEhiv8G0TRiFfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			JsiW+iID6BlFiGU/v5cjuJx8LjpZxv/C2tsP0RLnTxE=
+			TQ35QbuPMaL+H8Vk7EbFEVERZHuLvzIU9o80RZ5cjvE=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -1786,55 +1790,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K5291eU/x62On8+d/na3MOVw+h8=
+			2OS9JcInen8+knuIcDgZ0ki4vrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C9glRM3GAFfnFwmnahf0gtwsLiUjctg+C/Be1qq6HOY=
+			BsgsAtRBEXJ9aO5Lp2zcnE8HDO9uaa2M0rqO2BO2rEg=
+			</data>
+		</dict>
+		<key>app/firebase.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hqFHxZDDc+XmloyBU/m3w0USim0=
+			</data>
+			<key>hash2</key>
+			<data>
+			fSTjHXN3ojab50Zc4s0gyCQQzzC80bCi5QS0z3GADdo=
 			</data>
 		</dict>
 		<key>app/launch-page-view-model.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y2rmq2GynUxhkdv30+aDysPkFpo=
+			WKtSpHuCfTuEvCzHQGgiRi9F3pY=
 			</data>
 			<key>hash2</key>
 			<data>
-			zQHrkgF/eoTZZdJEepeNIZF5o9bdRFFskWlPxUESvyQ=
+			O7AJq7oSwjwDuFxqUTvAnDNXn+3RVTZ9xNWnSVWBAlE=
 			</data>
 		</dict>
 		<key>app/launch-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Krtzxcb7C9l9FwuhEOV4ZL8CKPQ=
+			hwzug6AYkh2lZZayWF56ek6Dzzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Ha5FQICcNG7Isj2zDIkUKb7/xf74LH/CH9UW+V5+TA=
+			FLIAlXBTXReZGm5jsein/BgfB1Mz1oXFHOT839AbQyo=
 			</data>
 		</dict>
 		<key>app/launch-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MF+G6VHIRfWlpfzWFOmbxcXtwo0=
+			tAoR8H+0Agqd5HHCwsmtZqdzONk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ccVfg1g73XpDOCIiwYj5Ng9eOHHI/wTTIMyZfqXpAEo=
+			rg76rTR2DeomA3cOMtsiRVvaUV+JyaS6JcMzlktyg8o=
 			</data>
 		</dict>
 		<key>app/main-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			woSq9uSkaiajKtSNrIr9AXE+Pxs=
+			l4raKud/Unt8ImB1Q9iH5Dc8BCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wv4eLkyNX3J+La8aS72LbQIcexFM41GPp4nxPHBIMCo=
+			C7lBOqDhcx7vlD8UjLF6+pVpzNOqwabrWDp17TtUukc=
 			</data>
 		</dict>
 		<key>app/main-page.xml</key>
