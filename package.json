@@ -13,6 +13,7 @@
     }
   },
   "dependencies": {
+    "firebase": "^3.4.0",
     "tns-core-modules": "2.4.0-2016-09-17-4145"
   },
   "devDependencies": {

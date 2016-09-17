@@ -5,7 +5,7 @@ function createViewModel() {
     var viewModel = new Observable();
 
     viewModel.onTap = function() {
-        alert(firebase.key());
+        alert("hi");
         firebase.auth().signInWithPopup(provider).then(function(result) {
             // This gives you a Google Access Token. You can use it to access the Google API.
             var token = result.credential.accessToken;
