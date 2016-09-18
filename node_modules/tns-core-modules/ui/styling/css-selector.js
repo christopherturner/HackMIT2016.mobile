@@ -173,16 +173,6 @@ var AttributeSelector = (function (_super) {
             return;
         }
     }
-    Object.defineProperty(AttributeSelector.prototype, "specificity", {
-        get: function () { return 256; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AttributeSelector.prototype, "rarity", {
-        get: function () { return 256; },
-        enumerable: true,
-        configurable: true
-    });
     AttributeSelector.prototype.toString = function () { return "[" + this.attribute + wrap(this.test) + ((this.test && this.value) || '') + "]" + wrap(this.combinator); };
     AttributeSelector.prototype.match = function (node) { return false; };
     AttributeSelector.prototype.mayMatch = function (node) { return true; };

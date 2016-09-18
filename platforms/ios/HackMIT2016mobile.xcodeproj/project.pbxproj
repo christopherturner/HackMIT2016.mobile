@@ -6,14 +6,16 @@
 	objectVersion = 46;
 	objects = {
 /* Begin PBXBuildFile section */
+		05C438D81D8E120D0058B471 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05C438D71D8E120D0058B471 /* GoogleService-Info.plist */; };
+		0A6095CA9CDD4B1586CB9467 /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18678C408DCD4290BAA688F7 /* TNSWidgets.framework */; };
+		21FFC9D60C794EE987E4B010 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C78EFC04D1AA42B585D3D8E4 /* LaunchScreen.storyboard */; };
 		858B842D18CA22B800AB12DE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 858B833A18CA111C00AB12DE /* InfoPlist.strings */; };
+		9A4B11473E4046A693CA683D /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 71EF167769264BE2A58526D7 /* build.xcconfig */; };
+		9D55611DD2C4431297D9AA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1754F29F5EA94387A0BEFF09 /* Assets.xcassets */; };
+		A8A89B8E58194C40B2AFCF4D /* TNSWidgets.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 18678C408DCD4290BAA688F7 /* TNSWidgets.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C4E921F6ABADAEC7893544ED /* Pods_HackMIT2016mobile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BE86CA5DF208073FF37B1CE /* Pods_HackMIT2016mobile.framework */; };
 		CD45EE7C18DC2D5800FB50C0 /* app in Resources */ = {isa = PBXBuildFile; fileRef = CD45EE7A18DC2D5800FB50C0 /* app */; };
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
-		9D55611DD2C4431297D9AA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1754F29F5EA94387A0BEFF09 /* Assets.xcassets */; };
-		21FFC9D60C794EE987E4B010 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C78EFC04D1AA42B585D3D8E4 /* LaunchScreen.storyboard */; };
-		9A4B11473E4046A693CA683D /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 71EF167769264BE2A58526D7 /* build.xcconfig */; };
-		0A6095CA9CDD4B1586CB9467 /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18678C408DCD4290BAA688F7 /* TNSWidgets.framework */; };
-		A8A89B8E58194C40B2AFCF4D /* TNSWidgets.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 18678C408DCD4290BAA688F7 /* TNSWidgets.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,20 +33,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		05C438D71D8E120D0058B471 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0BE86CA5DF208073FF37B1CE /* Pods_HackMIT2016mobile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HackMIT2016mobile.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1754F29F5EA94387A0BEFF09 /* Assets.xcassets */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = Assets.xcassets; path = HackMIT2016mobile/Resources/Assets.xcassets; sourceTree = "<group>"; };
+		18678C408DCD4290BAA688F7 /* TNSWidgets.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TNSWidgets.framework; path = ../../lib/iOS/TNSWidgets.framework; sourceTree = "<group>"; };
+		71EF167769264BE2A58526D7 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = build.xcconfig; path = HackMIT2016mobile/Resources/build.xcconfig; sourceTree = "<group>"; };
 		858B832E18CA111C00AB12DE /* HackMIT2016mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackMIT2016mobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		858B833918CA111C00AB12DE /* HackMIT2016mobile-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HackMIT2016mobile-Info.plist"; sourceTree = "<group>"; };
 		858B833B18CA111C00AB12DE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		858B833F18CA111C00AB12DE /* HackMIT2016mobile-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HackMIT2016mobile-Prefix.pch"; sourceTree = "<group>"; };
 		858B843318CA22B800AB12DE /* HackMIT2016mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackMIT2016mobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C78EFC04D1AA42B585D3D8E4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = HackMIT2016mobile/Resources/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD45EE7A18DC2D5800FB50C0 /* app */ = {isa = PBXFileReference; lastKnownFileType = folder; path = app; sourceTree = "<group>"; };
 		CD62955C1BB2678900AE3A93 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = internal/main.m; sourceTree = SOURCE_ROOT; };
 		CDD59A261BB43B5D00EC2671 /* build-debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-debug.xcconfig"; sourceTree = "<group>"; };
 		CDD59A271BB43B5D00EC2671 /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-release.xcconfig"; sourceTree = "<group>"; };
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
-		1754F29F5EA94387A0BEFF09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = Assets.xcassets; path = "HackMIT2016mobile/Resources/Assets.xcassets"; sourceTree = "<group>"; fileEncoding = 4; };
-		C78EFC04D1AA42B585D3D8E4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = "HackMIT2016mobile/Resources/LaunchScreen.storyboard"; sourceTree = "<group>"; fileEncoding = 4; };
-		71EF167769264BE2A58526D7 /* build.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = build.xcconfig; path = "HackMIT2016mobile/Resources/build.xcconfig"; sourceTree = "<group>"; fileEncoding = 4; };
-		18678C408DCD4290BAA688F7 /* TNSWidgets.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TNSWidgets.framework; path = "../../lib/iOS/TNSWidgets.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,19 +57,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A6095CA9CDD4B1586CB9467 /* TNSWidgets.framework in Frameworks */,
+				C4E921F6ABADAEC7893544ED /* Pods_HackMIT2016mobile.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B9DD8D41E76D76442366E72 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		858B832518CA111C00AB12DE = {
 			isa = PBXGroup;
 			children = (
+				05C438D71D8E120D0058B471 /* GoogleService-Info.plist */,
 				E070579D1B39A9D000214BF1 /* Resources */,
 				858B833718CA111C00AB12DE /* HackMIT2016mobile */,
 				858B833018CA111C00AB12DE /* Frameworks */,
 				858B832F18CA111C00AB12DE /* Products */,
+				0B9DD8D41E76D76442366E72 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -82,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				18678C408DCD4290BAA688F7 /* TNSWidgets.framework */,
+				0BE86CA5DF208073FF37B1CE /* Pods_HackMIT2016mobile.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -126,6 +141,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 858B843018CA22B800AB12DE /* Build configuration list for PBXNativeTarget "HackMIT2016mobile" */;
 			buildPhases = (
+				E2F85AB0E9432DBEACFECBB7 /* [CP] Check Pods Manifest.lock */,
 				C97FD7AC1ADE5369004DB2A4 /* NativeScript PreBuild */,
 				858B83F218CA22B800AB12DE /* Sources */,
 				CD62955B1BB2651D00AE3A93 /* NativeScript PreLink */,
@@ -133,6 +149,8 @@
 				858B842C18CA22B800AB12DE /* Resources */,
 				85F5BDFC1A9363BE006B9701 /* Embed Frameworks */,
 				CD3EAD351B05FF060042DBFC /* NativeScript PostBuild */,
+				BCCC1875BAB06B4983E22044 /* [CP] Embed Pods Frameworks */,
+				437808547E03BF68C297DC9B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -180,12 +198,43 @@
 				9D55611DD2C4431297D9AA26 /* Assets.xcassets in Resources */,
 				21FFC9D60C794EE987E4B010 /* LaunchScreen.storyboard in Resources */,
 				9A4B11473E4046A693CA683D /* build.xcconfig in Resources */,
+				05C438D81D8E120D0058B471 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		437808547E03BF68C297DC9B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HackMIT2016mobile/Pods-HackMIT2016mobile-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BCCC1875BAB06B4983E22044 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HackMIT2016mobile/Pods-HackMIT2016mobile-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		C97FD7AC1ADE5369004DB2A4 /* NativeScript PreBuild */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -229,6 +278,21 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"$SRCROOT/internal/nativescript-pre-link\"";
+			showEnvVarsInLog = 0;
+		};
+		E2F85AB0E9432DBEACFECBB7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -336,6 +400,10 @@
 				CLANG_ENABLE_MODULES = NO;
 				CLANG_MODULES_AUTOLINK = NO;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"../../lib/iOS\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HackMIT2016mobile/HackMIT2016mobile-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -347,10 +415,6 @@
 				PRODUCT_NAME = HackMIT2016mobile;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"../../lib/iOS\"",
-				);
 			};
 			name = Debug;
 		};
@@ -362,6 +426,10 @@
 				CLANG_ENABLE_MODULES = NO;
 				CLANG_MODULES_AUTOLINK = NO;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"../../lib/iOS\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HackMIT2016mobile/HackMIT2016mobile-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/HackMIT2016mobile/HackMIT2016mobile-Info.plist";
@@ -369,10 +437,6 @@
 				PRODUCT_NAME = HackMIT2016mobile;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"../../lib/iOS\"",
-				);
 			};
 			name = Release;
 		};
