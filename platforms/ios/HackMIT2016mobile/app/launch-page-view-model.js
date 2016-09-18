@@ -12,8 +12,8 @@ function createViewModel() {
             function(result) {
                 // the result object has these properties ('undefined', depending on the login type):
                 // uid, provider, expiresAtUnixEpochSeconds, profileImageURL, token
-                exports.uid = result.uid;
                 frames.topmost().navigate("main-page");
+                exports.user = { uid: result.uid, loggedIn: true };
             },
             function(errorMessage) {
                 console.log(errorMessage);
@@ -26,4 +26,4 @@ function createViewModel() {
 }
 
 exports.createViewModel = createViewModel;
-exports.uid = "SUPERANONYMOUS";
+exports.user = { uid: "SUPERANONYMOUS", loggedIn: false };

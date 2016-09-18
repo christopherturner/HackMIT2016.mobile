@@ -7,7 +7,7 @@ function onNavigatingTo(args) {
 
     var model = new observableModule.Observable();
     page.bindingContext = model;
-    model.set("confidence", 750);
+    model.set("confidence", 500);
     console.log();
     /*    var options = {
             sourceProperty: "confidence",
