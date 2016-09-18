@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Nl3DQv5bpldVsqu+je9Oz6z6Sn4=
+		ZzrGFYcnbH/CeRVd6LgdZBwaF4E=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -554,7 +554,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		D+d7S8IXD+8N7pXaPyOt+I0tG/4=
+		rLg7aK8cj686aYtyDNGK77qWgcc=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -562,7 +562,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		YzHzSx7d4D42JA4ijwBMc5Zvqbk=
+		rsf3xUP0QdgoqSSFzu4cwC6lJHk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -606,7 +606,7 @@
 		</data>
 		<key>app/package.json</key>
 		<data>
-		g4kpmCH3L6YtNqowSa8xoB8l/2U=
+		1g0cudWv31DAwYt8xGnjZNG0lpw=
 		</data>
 		<key>app/references.d.ts</key>
 		<data>
@@ -4384,11 +4384,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nl3DQv5bpldVsqu+je9Oz6z6Sn4=
+			ZzrGFYcnbH/CeRVd6LgdZBwaF4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			NTz2nLhLVsxWpsXZkY1FcEzQdEpMWV+hsvb6NftVSVA=
+			PNRDdUJbNNT5qHwpWZqCoDYpP6JW1Ac8YuHy/bjC+YE=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -5237,11 +5237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D+d7S8IXD+8N7pXaPyOt+I0tG/4=
+			rLg7aK8cj686aYtyDNGK77qWgcc=
 			</data>
 			<key>hash2</key>
 			<data>
-			KixgudTNcVS6luSKYrg3BAViNxmocmtFP+nMkurEGhs=
+			FwJ4AJRC05Ufi88+hRZQ+U9QUWxj+LSfRmNk5y6GSws=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -5259,11 +5259,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YzHzSx7d4D42JA4ijwBMc5Zvqbk=
+			rsf3xUP0QdgoqSSFzu4cwC6lJHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wNsj9lpiFGMmilrS0NI31LPXgDfYo2iN5Tz0Djdis6k=
+			bxveAJaZUVl7Lb0+mv6EWibqKcXDxH135vqJjv78/jM=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -5369,11 +5369,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g4kpmCH3L6YtNqowSa8xoB8l/2U=
+			1g0cudWv31DAwYt8xGnjZNG0lpw=
 			</data>
 			<key>hash2</key>
 			<data>
-			RQWuggZD2xSs4Rc9aqxsVOn/P0JJS086GAOCfKobT+Y=
+			eQURcofvCLvx3KqvSGhpA5uWlTQdE4u9k+IxP37QIHo=
 			</data>
 		</dict>
 		<key>app/references.d.ts</key>
