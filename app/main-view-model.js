@@ -4,16 +4,13 @@ var firebase = require("nativescript-plugin-firebase");
 
 function createViewModel() {
     var viewModel = new Observable();
-    alert("HELLLO!!!!!");
 
     viewModel.on(Observable.propertyChangeEvent, function(propertyChangeData) {
-        alert("HELLLO?????");
         if (propertyChangeData.propertyName === "confidence") {
-            console.log(propertyChangeData.value);
-            alert("HELLLO!!!!!");
+            viewModel.finalConfidence = Math.round(propertyChangeData.value);
             // to store a JSON object
             firebase.setValue(
-                '/' + user.uid, { "confidence": confidence }
+                '/' + user.uid, { "confidence": viewModel.finalConfidence }
             );
         }
     });

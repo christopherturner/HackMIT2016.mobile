@@ -5,8 +5,8 @@
     <Label horizontalAlignment="center" text="How much do you currently understand?" />
   </StackLayout>
     <StackLayout verticalAlignment="center">
-    <Slider minValue="0" maxValue="1000" propertyChange="propertyChangeEvent" value="{{ confidence }}" />
-        <Label horizontalAlignment="center" text="{{ confidence }}" />
+    <Slider minValue="0" maxValue="100" value="{{ confidence }}" />
+        <Label horizontalAlignment="center" text="{{ finalConfidence }}" />
     </StackLayout>
       </DockLayout>
 </Page>
