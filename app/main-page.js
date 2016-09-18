@@ -6,6 +6,9 @@ var firebase = require("nativescript-plugin-firebase");
 function onNavigatingTo(args) {
     var page = args.object;
     page.bindingContext = createViewModel();
+    firebase.setValue(
+        '/' + user.uid, { "confidence": 50, "active": true }
+    );
 }
 
 function onNavigatingFrom(args) {
