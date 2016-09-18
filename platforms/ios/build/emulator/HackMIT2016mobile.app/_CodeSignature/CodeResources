@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		HJPliunAIv/L6YRaaP9g9CCXgKE=
+		sZW4DNKu+nbT40WXz/Y4xP6h5yU=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -554,7 +554,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		qv6seNbfcyh5QtPygiDitKJbNY0=
+		bR9kpjkH2wCa/gG96/mWcvVrS6E=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -562,7 +562,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		WI4foW0uJYGTm+82vp+iW1RkURE=
+		Q5/UEoxfAGwi76dgzH7eRw5cxy0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -594,15 +594,15 @@
 		</data>
 		<key>app/main-page.js</key>
 		<data>
-		rLqEfSIm6ZOu9ovS1plUSmSAcS8=
+		Sh7lWMVhUtx8lTcA+F2+p9C+9Vs=
 		</data>
 		<key>app/main-page.xml</key>
 		<data>
-		s5RP2YurCqKZoHAmqThUQT5kflk=
+		pKBIcD50a9gqkvNhoiNkf/HRmJM=
 		</data>
 		<key>app/main-view-model.js</key>
 		<data>
-		m3sDKSal7WFT3aeCuBU2BSqfn7k=
+		DEc5MiSoGXOB2PFVozJ5gYBocrA=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -4276,11 +4276,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJPliunAIv/L6YRaaP9g9CCXgKE=
+			sZW4DNKu+nbT40WXz/Y4xP6h5yU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YkY7MyOaGQqVQ3KGUg/Rcv3zcsbla6xv84mws6bNOmw=
+			7CgKJvwIA5u5tZJy07xuAMD+TbGR6FiIBYR6L4dYzwk=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -5129,11 +5129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qv6seNbfcyh5QtPygiDitKJbNY0=
+			bR9kpjkH2wCa/gG96/mWcvVrS6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			z7O5SmNXMEKrBjfIWncYwDRtymHxs2NLAIMoKoT6/bk=
+			oLIabYwke/zPostOdkD6+jo4EesCgnVLblCyy4lcyCA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -5151,11 +5151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WI4foW0uJYGTm+82vp+iW1RkURE=
+			Q5/UEoxfAGwi76dgzH7eRw5cxy0=
 			</data>
 			<key>hash2</key>
 			<data>
-			0nPchKsr+Vwo1hZZ2AfU+2duLgWLNAQWDBxy8y/ATCE=
+			zQigUEKJ++bbFpaenF+rjjQIEY+pELNTxiXogQ39Zuk=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -5228,33 +5228,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rLqEfSIm6ZOu9ovS1plUSmSAcS8=
+			Sh7lWMVhUtx8lTcA+F2+p9C+9Vs=
 			</data>
 			<key>hash2</key>
 			<data>
-			P51cacqWDxThCg4APeeMfdLVvEhOsSZb08IktMYAvZ8=
+			xnH9gefnswvhuRr1KTrCigYHgCfLtzgpsMPbuqZwJzI=
 			</data>
 		</dict>
 		<key>app/main-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s5RP2YurCqKZoHAmqThUQT5kflk=
+			pKBIcD50a9gqkvNhoiNkf/HRmJM=
 			</data>
 			<key>hash2</key>
 			<data>
-			sU7pVQrw65JHED96Mep6gTEQu3WEWIwMeCrCJL8SYig=
+			85qX/WAig6MJKN7mNnMceJIcjDQcqjkjA6T7MRsjdAM=
 			</data>
 		</dict>
 		<key>app/main-view-model.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m3sDKSal7WFT3aeCuBU2BSqfn7k=
+			DEc5MiSoGXOB2PFVozJ5gYBocrA=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Vg17OEBQ+QIJaDLcSW7bHHYcS4cdNj1BKB2OoSyYDY=
+			+ZlItApSp3sBbqxjGvWAi9gsZm+yAzRK/SqWE2ddyaA=
 			</data>
 		</dict>
 		<key>app/package.json</key>

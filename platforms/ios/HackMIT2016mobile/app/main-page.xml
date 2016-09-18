@@ -1,4 +1,4 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" navigatingFrom="onNavigatingFrom">
   <DockLayout stretchLastChild="true">
   <StackLayout dock="top">
     <Label text="[Insert Title]" class="title"/>
@@ -6,7 +6,7 @@
   </StackLayout>
     <StackLayout verticalAlignment="center">
     <Slider minValue="0" maxValue="100" value="{{ confidence }}" />
-        <Label horizontalAlignment="center" text="{{ finalConfidence }}" />
+        <Label horizontalAlignment="center" text="{{ confidence, confidence | roundNum() }}" />
     </StackLayout>
       </DockLayout>
 </Page>
