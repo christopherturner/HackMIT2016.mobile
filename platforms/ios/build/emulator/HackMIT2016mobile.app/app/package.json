@@ -32,6 +32,6 @@
   "_id": "tns-template-hello-world@2.3.0",
   "_from": "tns-template-hello-world@2.3.0",
   "node": {
-  "fs": "empty"
+    "fs": "empty"
   }
 }

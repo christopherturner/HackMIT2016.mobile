@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ZzrGFYcnbH/CeRVd6LgdZBwaF4E=
+		EZsNyJDOItC31hpeeR13xf3rFDw=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -554,7 +554,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		rLg7aK8cj686aYtyDNGK77qWgcc=
+		aZeGTJjeDtTWQUVCiRu3Gbc6oaY=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -562,7 +562,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		rsf3xUP0QdgoqSSFzu4cwC6lJHk=
+		wk1YB+GP0Gi4V8CRS6JGJwO9Qhg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -574,7 +574,7 @@
 		</data>
 		<key>app/app.js</key>
 		<data>
-		qPemNBiMyfLMBKH14nE5DhPD22o=
+		aS3a5qRVxmzpP0xmFOh4Wm1ihzs=
 		</data>
 		<key>app/firebase.js</key>
 		<data>
@@ -582,15 +582,15 @@
 		</data>
 		<key>app/launch-page-view-model.js</key>
 		<data>
-		Qj+n4DNOVMMEvUhgY0/vzvnQ/ck=
+		68ixGVVRhbX7x8VWFQdyT/B+odg=
 		</data>
 		<key>app/launch-page.js</key>
 		<data>
-		ki+HfdPSleFtCekLgnrxy+Th6f8=
+		9wMg2BqWMiiuPfiO12I9M9kDtnc=
 		</data>
 		<key>app/launch-page.xml</key>
 		<data>
-		AAHqtr0RmqCost62ujWk+Nce6wc=
+		jtFu6pV1kfhj2iVbE+B+OQ3WVQA=
 		</data>
 		<key>app/main-page.js</key>
 		<data>
@@ -606,7 +606,7 @@
 		</data>
 		<key>app/package.json</key>
 		<data>
-		1g0cudWv31DAwYt8xGnjZNG0lpw=
+		itvS38sPBJXbOVuaz/Z7Fz5UUkw=
 		</data>
 		<key>app/references.d.ts</key>
 		<data>
@@ -1124,26 +1124,6 @@
 		<data>
 		3f3a0APQ0515wO3nPLbwY6mjBHo=
 		</data>
-		<key>app/tns_modules/dom-storage/LICENSE</key>
-		<data>
-		Fyyju6/jEqHPCc//JpU9svQlwo4=
-		</data>
-		<key>app/tns_modules/dom-storage/README.md</key>
-		<data>
-		s810aYUiebr4H7cI7vrYOZtwpDM=
-		</data>
-		<key>app/tns_modules/dom-storage/lib/index.js</key>
-		<data>
-		K6wWx90rJ/1/Fjxa/X1UADhrqU0=
-		</data>
-		<key>app/tns_modules/dom-storage/package.json</key>
-		<data>
-		WT7woloXS/SWZzvAoafnslmtUj4=
-		</data>
-		<key>app/tns_modules/dom-storage/tests/test.js</key>
-		<data>
-		3WDWofDdtwCtQimisA5QIrBMz5c=
-		</data>
 		<key>app/tns_modules/ecdsa-sig-formatter/LICENSE</key>
 		<data>
 		VmiS1I46XOM8JlElFjSVaICxo14=
@@ -1308,102 +1288,6 @@
 		<data>
 		GiOBfS7H/nwfSYhk+F6vCi1lovE=
 		</data>
-		<key>app/tns_modules/firebase/README.md</key>
-		<data>
-		MuS8VgeYNQw8tmLX/fNVVOCup2U=
-		</data>
-		<key>app/tns_modules/firebase/app-node.js</key>
-		<data>
-		3lSSb3sxIXe0QHcRWVccKWOXp7s=
-		</data>
-		<key>app/tns_modules/firebase/app.d.ts</key>
-		<data>
-		s24uncIAUIIjCTsGuA//WncDbkQ=
-		</data>
-		<key>app/tns_modules/firebase/app.js</key>
-		<data>
-		B0Zp2GJughbPubVllO8MrMXz1S4=
-		</data>
-		<key>app/tns_modules/firebase/auth-node/auth.js</key>
-		<data>
-		d1vdZynv2RU74vSB1IFVOq9aQ44=
-		</data>
-		<key>app/tns_modules/firebase/auth-node/credential.js</key>
-		<data>
-		DFsOSOG1iaWnjZBxC29AVsVO5Os=
-		</data>
-		<key>app/tns_modules/firebase/auth-node/index.js</key>
-		<data>
-		Ta+vFS+KUaL6ien07+9GKOGQafY=
-		</data>
-		<key>app/tns_modules/firebase/auth-node/token-generator.js</key>
-		<data>
-		legrTEj15TmDckR5koo+XUKqOKo=
-		</data>
-		<key>app/tns_modules/firebase/auth.js</key>
-		<data>
-		hAcVLl0URbqFr9cIoJeLGIOj4uU=
-		</data>
-		<key>app/tns_modules/firebase/database-node.js</key>
-		<data>
-		s/J7ivmImmePAly/I+L/XuDeQMg=
-		</data>
-		<key>app/tns_modules/firebase/database.js</key>
-		<data>
-		28d7YTdeZmEejdfjsHICS3F4rBY=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-app-externs.js</key>
-		<data>
-		9uAUs9V0rq08MJBiYmRE9xH3AGI=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-auth-externs.js</key>
-		<data>
-		qxBb/XV8BpmQ4SQ57qQYFWnxo3E=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-client-auth-externs.js</key>
-		<data>
-		Z4pPknMJKdhC4KuYurmRy/hVdtc=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-database-externs.js</key>
-		<data>
-		HT7D2KheUJ17MUiC4JtQrpn5TKM=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-server-auth-externs.js</key>
-		<data>
-		K8aF911tyuVwJnr6XR4/UwVdgIg=
-		</data>
-		<key>app/tns_modules/firebase/externs/firebase-storage-externs.js</key>
-		<data>
-		0jhf0+SfjdRUPn3stYhVHAmEs/4=
-		</data>
-		<key>app/tns_modules/firebase/firebase-node.js</key>
-		<data>
-		ObQ9LVyU6TI7IJbi8VZhyG9MtDY=
-		</data>
-		<key>app/tns_modules/firebase/firebase-react-native.js</key>
-		<data>
-		YAXxPEEUe/V1xK3HFa12/2x6p7U=
-		</data>
-		<key>app/tns_modules/firebase/firebase.d.ts</key>
-		<data>
-		nJn6+7uyvUbPfePrXF1HGfMusTQ=
-		</data>
-		<key>app/tns_modules/firebase/firebase.js</key>
-		<data>
-		yWsR15P/UMo9n2CKr6tC1kxK1B4=
-		</data>
-		<key>app/tns_modules/firebase/npm-shrinkwrap.json</key>
-		<data>
-		kgJctQOUzDqIT08Lv7ffBYPejlA=
-		</data>
-		<key>app/tns_modules/firebase/package.json</key>
-		<data>
-		y2JUPLOFvfHVwlJhurupvEvaC3Q=
-		</data>
-		<key>app/tns_modules/firebase/storage.js</key>
-		<data>
-		BaU6vNDk7IE2rHlubKUmfshhIVE=
-		</data>
 		<key>app/tns_modules/fps-meter/fps-meter.js</key>
 		<data>
 		Sw0vWLO7LP6LjUUzncI04aIW8Hs=
@@ -1435,6 +1319,14 @@
 		<key>app/tns_modules/fs.realpath/package.json</key>
 		<data>
 		LkvqciwVS5F5zzlzfdfFXmdBs3g=
+		</data>
+		<key>app/tns_modules/fs/README.md</key>
+		<data>
+		gIOmBb16wg7Do4ad+PjfuB9q/5E=
+		</data>
+		<key>app/tns_modules/fs/package.json</key>
+		<data>
+		DrHanTKL+7slfEm8fgVmOu1Q/Oc=
 		</data>
 		<key>app/tns_modules/get-stdin/index.js</key>
 		<data>
@@ -4384,11 +4276,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZzrGFYcnbH/CeRVd6LgdZBwaF4E=
+			EZsNyJDOItC31hpeeR13xf3rFDw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PNRDdUJbNNT5qHwpWZqCoDYpP6JW1Ac8YuHy/bjC+YE=
+			4JHlfua25c6Ie5E0sKF5mk1J5XvmLR6Dygw2b5w5rtA=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -5237,11 +5129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rLg7aK8cj686aYtyDNGK77qWgcc=
+			aZeGTJjeDtTWQUVCiRu3Gbc6oaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwJ4AJRC05Ufi88+hRZQ+U9QUWxj+LSfRmNk5y6GSws=
+			5n1NXw/CwGsWaKoD9kewzNL7gkrJ4PKoheyjOqw4PZs=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -5259,11 +5151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rsf3xUP0QdgoqSSFzu4cwC6lJHk=
+			wk1YB+GP0Gi4V8CRS6JGJwO9Qhg=
 			</data>
 			<key>hash2</key>
 			<data>
-			bxveAJaZUVl7Lb0+mv6EWibqKcXDxH135vqJjv78/jM=
+			wfIZHl1ttUHa2zSU28MckHSMapzAfJasx/IaHvwdyq0=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -5281,11 +5173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qPemNBiMyfLMBKH14nE5DhPD22o=
+			aS3a5qRVxmzpP0xmFOh4Wm1ihzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5MdLIiJIq+132rlXpIGO0sIZfB7xDW63y6iYZ5EstU4=
+			5th7JXH+HALNqHOSqLxtVv00aZT7m6Pe1E8kRMeZSXs=
 			</data>
 		</dict>
 		<key>app/firebase.js</key>
@@ -5303,33 +5195,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qj+n4DNOVMMEvUhgY0/vzvnQ/ck=
+			68ixGVVRhbX7x8VWFQdyT/B+odg=
 			</data>
 			<key>hash2</key>
 			<data>
-			y3KkEoLY1NZ7BhB5TTujVjFzwWidqf4FMpQ98uwv6vI=
+			f/Y6i7blsaN7MjTrOjiu/L8441on4oJ48jL3njCeU/o=
 			</data>
 		</dict>
 		<key>app/launch-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ki+HfdPSleFtCekLgnrxy+Th6f8=
+			9wMg2BqWMiiuPfiO12I9M9kDtnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zukDYh7p0/oD3SpyA3af3U5bawtSnaJSU2/uFCYYVkE=
+			vFDtNCJ9sLf37qNuBI4cqrCc5qdMIfriftC8HxXUw4I=
 			</data>
 		</dict>
 		<key>app/launch-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AAHqtr0RmqCost62ujWk+Nce6wc=
+			jtFu6pV1kfhj2iVbE+B+OQ3WVQA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ICI7tKmSF3WO/KKvdzbZTVOF9V/gIKieXt4Igfo7p6o=
+			NSnC/6sxF32F0OXlljpCTi+dnBcD5IZvxEBYO+fHuHk=
 			</data>
 		</dict>
 		<key>app/main-page.js</key>
@@ -5369,11 +5261,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1g0cudWv31DAwYt8xGnjZNG0lpw=
+			itvS38sPBJXbOVuaz/Z7Fz5UUkw=
 			</data>
 			<key>hash2</key>
 			<data>
-			eQURcofvCLvx3KqvSGhpA5uWlTQdE4u9k+IxP37QIHo=
+			6S792OaXLV0xq/aLkLIiiOjxwM2UmgJvH8TkK/qd2c8=
 			</data>
 		</dict>
 		<key>app/references.d.ts</key>
@@ -6795,61 +6687,6 @@
 			xYX/q0lCZeygLB/q6OOcxsG2t//2hvqywmww1CGfqhQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/dom-storage/LICENSE</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fyyju6/jEqHPCc//JpU9svQlwo4=
-			</data>
-			<key>hash2</key>
-			<data>
-			c7p036pSC0mkAbXSFFmoUjoUbzt1GKgz7qXvqFEwv2g=
-			</data>
-		</dict>
-		<key>app/tns_modules/dom-storage/README.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s810aYUiebr4H7cI7vrYOZtwpDM=
-			</data>
-			<key>hash2</key>
-			<data>
-			W3WZ2Hl0zyb1fayxVL2/I8LMcIlkrtFznEIz9ROZ9XA=
-			</data>
-		</dict>
-		<key>app/tns_modules/dom-storage/lib/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K6wWx90rJ/1/Fjxa/X1UADhrqU0=
-			</data>
-			<key>hash2</key>
-			<data>
-			bjqVSoCWRnmq4mZdYHSLw1mhy/PksCIXR5Zts1jXayE=
-			</data>
-		</dict>
-		<key>app/tns_modules/dom-storage/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WT7woloXS/SWZzvAoafnslmtUj4=
-			</data>
-			<key>hash2</key>
-			<data>
-			mRvQG1/zUTQtq4DPlT7RD5rlemVqYVr/obt+zGah4WQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/dom-storage/tests/test.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3WDWofDdtwCtQimisA5QIrBMz5c=
-			</data>
-			<key>hash2</key>
-			<data>
-			WkWVm2U0BBJJcuprqPZV3wL1rgfpY+8rsp92nzGDFwI=
-			</data>
-		</dict>
 		<key>app/tns_modules/ecdsa-sig-formatter/LICENSE</key>
 		<dict>
 			<key>hash</key>
@@ -7301,270 +7138,6 @@
 			VYFji3IuiLcB8AlTJdPifD/7hs1L6MstcIlGyFc6Th4=
 			</data>
 		</dict>
-		<key>app/tns_modules/firebase/README.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MuS8VgeYNQw8tmLX/fNVVOCup2U=
-			</data>
-			<key>hash2</key>
-			<data>
-			QDfjoHEvcNFgXRHByYbErdI+pPil20wcvRZZW8hpyJA=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/app-node.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3lSSb3sxIXe0QHcRWVccKWOXp7s=
-			</data>
-			<key>hash2</key>
-			<data>
-			KWOvNUBWFMyTgRr0uZFWFpUgEZhE8ceUVyjyMcfeF/0=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/app.d.ts</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s24uncIAUIIjCTsGuA//WncDbkQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			aTxVitBrnRGwdr9YBGgy+1vUc6Cf4COUq1xWc0qphTA=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/app.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			B0Zp2GJughbPubVllO8MrMXz1S4=
-			</data>
-			<key>hash2</key>
-			<data>
-			UTarMNSixDT4qtFXhLz/t6Xv0DhwrTvLKRs6PpdG6SU=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/auth-node/auth.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d1vdZynv2RU74vSB1IFVOq9aQ44=
-			</data>
-			<key>hash2</key>
-			<data>
-			KqS6Z592kPC5jEKqb/nHKpMFPn1dmTnSyalzOOt8S+M=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/auth-node/credential.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DFsOSOG1iaWnjZBxC29AVsVO5Os=
-			</data>
-			<key>hash2</key>
-			<data>
-			uJRUP20DWX9lyEl+kHtH0PNW/MZElYeAqeNktNxarG8=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/auth-node/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ta+vFS+KUaL6ien07+9GKOGQafY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dD3esCETBeyXMDL04XIMomhE2FLU0VCn0p+O6VMJ3v0=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/auth-node/token-generator.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			legrTEj15TmDckR5koo+XUKqOKo=
-			</data>
-			<key>hash2</key>
-			<data>
-			NnOje0m4fegcO2f+lVMZFLMaVqfEsYVyEEDvU9KarkE=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/auth.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hAcVLl0URbqFr9cIoJeLGIOj4uU=
-			</data>
-			<key>hash2</key>
-			<data>
-			nKvHIWbDOL/ufGkZX4xhjYEs55qHM5Mndw+uGSAtaYQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/database-node.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s/J7ivmImmePAly/I+L/XuDeQMg=
-			</data>
-			<key>hash2</key>
-			<data>
-			PnvAsobnGECA+x60w/vqwk1ekRKHDLNk8uz0Cq8DHOw=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/database.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			28d7YTdeZmEejdfjsHICS3F4rBY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dhWa8O74ys0XIZgQa41ftIhR7sD3bpKHhY5gbDvN20k=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-app-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9uAUs9V0rq08MJBiYmRE9xH3AGI=
-			</data>
-			<key>hash2</key>
-			<data>
-			PtFiOawlYYXCaY63LT9jtv3RrdweSz5RmrPq6GsbUo4=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-auth-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qxBb/XV8BpmQ4SQ57qQYFWnxo3E=
-			</data>
-			<key>hash2</key>
-			<data>
-			FywqwIl/bbNSV6o5LjRq6NzBX5Oi0YczG7h5SN+rOOI=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-client-auth-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z4pPknMJKdhC4KuYurmRy/hVdtc=
-			</data>
-			<key>hash2</key>
-			<data>
-			Srvn7jonNFOZuKIUdImO4Un9Aoa7eRQXDOj3QI9pELk=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-database-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HT7D2KheUJ17MUiC4JtQrpn5TKM=
-			</data>
-			<key>hash2</key>
-			<data>
-			BYPL+REiIbn4YSgipmwFxuSGAm6vWUavbL6uxcryqKY=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-server-auth-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K8aF911tyuVwJnr6XR4/UwVdgIg=
-			</data>
-			<key>hash2</key>
-			<data>
-			bKQJ9UO09FHLX4teuz0k7zRU3g3ggK768zta8wXKZMI=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/externs/firebase-storage-externs.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0jhf0+SfjdRUPn3stYhVHAmEs/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			lxQfZf6flH72ezpZRytViCHfgsvFwfuv2tIW/GnOHZg=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/firebase-node.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ObQ9LVyU6TI7IJbi8VZhyG9MtDY=
-			</data>
-			<key>hash2</key>
-			<data>
-			vaqCrVjdOZesRKs4ytU0dgqm2gyGA+TEm4pe/phK0gs=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/firebase-react-native.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YAXxPEEUe/V1xK3HFa12/2x6p7U=
-			</data>
-			<key>hash2</key>
-			<data>
-			abH830C+lRlXQ/wIO0XavzHZwOiKQcJcYUu+yHdgfUM=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/firebase.d.ts</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nJn6+7uyvUbPfePrXF1HGfMusTQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			4EHizyUCsB4WaOEoPrVgIPHWr7YSpF2+bmfsHDlNmv8=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/firebase.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWsR15P/UMo9n2CKr6tC1kxK1B4=
-			</data>
-			<key>hash2</key>
-			<data>
-			JthxQBjVyNmbSUcCeMgBHKy+YI0C7p/4EqNy8cn/T4A=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/npm-shrinkwrap.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kgJctQOUzDqIT08Lv7ffBYPejlA=
-			</data>
-			<key>hash2</key>
-			<data>
-			wMS6M/G2wfNXzF4E1kT29vFHhAWvDYMh4UOJXBMgjY0=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y2JUPLOFvfHVwlJhurupvEvaC3Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			wfveWWlugqgzUh7TE2vDoePwRybTdNW3yOkn+tXGi50=
-			</data>
-		</dict>
-		<key>app/tns_modules/firebase/storage.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BaU6vNDk7IE2rHlubKUmfshhIVE=
-			</data>
-			<key>hash2</key>
-			<data>
-			lVy2r0ZSyeFi8DboWEzX8w06fc9Bksbvp/TzE84H/r0=
-			</data>
-		</dict>
 		<key>app/tns_modules/fps-meter/fps-meter.js</key>
 		<dict>
 			<key>hash</key>
@@ -7651,6 +7224,28 @@
 			<key>hash2</key>
 			<data>
 			Z1W63WxmRq+wrYgLne2EZod19bLLnFK/cSwm0/wFZCc=
+			</data>
+		</dict>
+		<key>app/tns_modules/fs/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gIOmBb16wg7Do4ad+PjfuB9q/5E=
+			</data>
+			<key>hash2</key>
+			<data>
+			cJEe21I8nOR3iZ7ewhQvgoMDPVmjgmCemtg4hhcbHXs=
+			</data>
+		</dict>
+		<key>app/tns_modules/fs/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DrHanTKL+7slfEm8fgVmOu1Q/Oc=
+			</data>
+			<key>hash2</key>
+			<data>
+			MB4AChz0gyjbp8Rh3MCkyoPl0uZGow7d2jzaftlUiOA=
 			</data>
 		</dict>
 		<key>app/tns_modules/get-stdin/index.js</key>

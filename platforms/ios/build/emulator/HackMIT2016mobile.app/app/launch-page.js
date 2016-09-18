@@ -1,4 +1,4 @@
-var firebase = require("firebase");
+//var firebase = require("firebase");
 var createViewModel = require("./launch-page-view-model").createViewModel;
 //var provider = new firebase.auth.GoogleAuthProvider();
 

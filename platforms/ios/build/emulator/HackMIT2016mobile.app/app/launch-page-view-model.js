@@ -1,50 +1,29 @@
 var Observable = require("data/observable").Observable;
-var firebase = require("firebase");
+var firebase = require("nativescript-plugin-firebase");
+var frames = require("ui/frame");
 
 function createViewModel() {
     var viewModel = new Observable();
 
     viewModel.onTap = function() {
-        alert("hi");
-        firebase.auth().signInWithPopup(provider).then(function(result) {
-            // This gives you a Google Access Token. You can use it to access the Google API.
-            var token = result.credential.accessToken;
-            // The signed-in user info.
-            var user = result.user;
-            // ...
-        }).catch(function(error) {
-            // Handle Errors here.
-            var errorCode = error.code;
-            var errorMessage = error.message;
-            // The email of the user's account used.
-            var email = error.email;
-            // The firebase.auth.AuthCredential type that was used.
-            var credential = error.credential;
-            // ...
-        });
-
-        firebase.auth().getRedirectResult().then(function(result) {
-            if (result.credential) {
-                // This gives you a Google Access Token. You can use it to access the Google API.
-                var token = result.credential.accessToken;
-                // ...
+        firebase.login({
+            type: firebase.LoginType.ANONYMOUS
+        }).then(
+            function(result) {
+                // the result object has these properties ('undefined', depending on the login type):
+                // uid, provider, expiresAtUnixEpochSeconds, profileImageURL, token
+                exports.uid = result.uid;
+                frames.topmost().navigate("main-page");
+            },
+            function(errorMessage) {
+                console.log(errorMessage);
+                alert("Your login has FAILED.  Please exit the classroom immediately.  You suck at life.");
             }
-            // The signed-in user info.
-            var user = result.user;
-        }).catch(function(error) {
-            // Handle Errors here.
-            var errorCode = error.code;
-            var errorMessage = error.message;
-            // The email of the user's account used.
-            var email = error.email;
-            // The firebase.auth.AuthCredential type that was used.
-            var credential = error.credential;
-            // ...
-        });
-
+        )
     }
 
     return viewModel;
 }
 
 exports.createViewModel = createViewModel;
+exports.uid = "SUPERANONYMOUS";
