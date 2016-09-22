@@ -28,6 +28,7 @@ During our 24 hour experience, naturally, we ran into many issues.
 
 dunno what to say lol halp
 
+TESSSTTT
 
 
 *A Special Thanks to the guys from Firebase and NativeScript for tirelessly helping us out through the 24 hour hackathon!*
