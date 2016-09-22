@@ -3,7 +3,7 @@
 ## The Team
 
 
-<img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/josh_zpsvjdrw4yj.jpg " width="185" height="200" /> </br> Josh Rees-Jones <br>NC State University '18 | <img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/nate_zpspq8j8dfm.jpg" width="185" height="200" /> </br> Nate Graf <br>Texas A&M University '17'
+<img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/josh_zpsvjdrw4yj.jpg" width="185" height="200" /> </br> Josh Rees-Jones <br>NC State University '18 | <img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/nate_zpspq8j8dfm.jpg" width="185" height="200" /> </br> Nate Graf <br>Texas A&M University '17'
 ------------ | -------------
 <img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/chris_zpsxwuglyco.jpg" width="180" height="225" /> </br><B>Christopher Turner </br>U. of Southern California '20|  <img src="http://i1380.photobucket.com/albums/ah163/menasyhalaa/me_zpshh2mu03g.jpg" width="180" height="220" /> </br><b>Halaa Menasy <br>Stony Brook University '17 </b>
 
