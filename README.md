@@ -20,7 +20,7 @@ ClassSense is an application created by students for students. We've all been in
 * NativeScript
 * HighChart
 
-Utilizing Firebase we were able to collect real time data without worrying about latency. We understood the importance of being as accurate as possible when it comes to getting direct feedback from students. We also new that reaching all platforms was key so using NativeScript to be able to accommodate both Android and IOS.
+Utilizing Firebase we were able to collect real time data without worrying about latency. We understood the importance of being as accurate as possible when it comes to getting direct feedback from students. We also knew that reaching all platforms was key so we used NativeScript to be able to accommodate both Android and IOS.
 
 
 *A Special Thanks to the guys from Firebase and NativeScript for tirelessly helping us out through the 24 hour hackathon!*
